@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "Content": "What is your favorite Sport?",
+      "Type": "Single",
+      "Point": "Standard",
+      "Duration": 10,
+      "YoutubeLink": "123",
+      "Photo": "456",
+      "Answer": [
+        {
+          "ID": 0,
+          "Content": "Basketball",
+          "Correct": true
+        },
+        {
+          "ID": 1,
+          "Content": "Football",
+          "Correct": false
+        },
+        {
+          "ID": 2,
+          "Content": "Baseball",
+          "Correct": false
+        },
+        {
+          "ID": 3,
+          "Content": "Table tennis",
+          "Correct": false
+        }
+      ]
+    },{
+      "Content": "What is your favorite Language?",
+      "Type": "Single",
+      "Point": "Double",
+      "Duration": 20,
+      "YoutubeLink": "123",
+      "Photo": "456",
+      "Answer": [
+        {
+          "ID": 0,
+          "Content": "Python",
+          "Correct": true
+        },
+        {
+          "ID": 1,
+          "Content": "C++",
+          "Correct": false
+        },
+        {
+          "ID": 2,
+          "Content": "Java",
+          "Correct": false
+        },
+        {
+          "ID": 3,
+          "Content": "JS",
+          "Correct": false
+        }
+      ]
+    },{
+      "Content": "What is your favorite Restaurant?",
+      "Type": "Multiple",
+      "Point": "No",
+      "Duration": 60,
+      "YoutubeLink": "123",
+      "Photo": "456",
+      "Answer": [
+        {
+          "ID": 0,
+          "Content": "KFC",
+          "Correct": true
+        },
+        {
+          "ID": 1,
+          "Content": "Dominos",
+          "Correct": false
+        },
+        {
+          "ID": 2,
+          "Content": "Fish&Chips",
+          "Correct": true
+        },
+        {
+          "ID": 3,
+          "Content": "Hungry Jack",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}
