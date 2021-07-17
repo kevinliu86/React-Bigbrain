@@ -66,133 +66,6 @@
       "active": null,
       "createdAt": "2021-04-14T06:25:17.226Z"
     },
-    "146428510": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [
-        {
-          "Content": "which is best",
-          "Type": "Single",
-          "Point": "Double",
-          "Duration": 30,
-          "YoutubeLink": "",
-          "Photo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAe1BMVEUAAAD///8EBAT7+/ubm5tmZmYVFRX39/fCwsIICAjb29t6enrOzs7u7u7y8vI1NTWBgYHm5uY5OTm1tbVubm50dHRVVVUuLi6goKDMzMxgYGAmJiapqalBQUGvr6/d3d2KiopLS0uPj49YWFgeHh68vLw+Pj4RERFOTk7Q92uzAAAEyElEQVR4nO3ZaXuyOhAG4EyQRWRx33DD2tr//wvPJISwiNarp6fScz33BwtjeIUhCRNeIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4JdIKb934HTq/eyZ9JwXRCNO17eO3RJNf/h0+s0jWotv9qyI3n/4bP5jXZd5G7uTDA57Dg2eaNklI9o+37oP9HyTDVtB0bzqjgyUnamZLHlz6P3fFTua2N3L9btj+TepM9wlTzdt7cibZN22vMuhk93ex+enj3ulkU/tZMlhq6uJm4CKqWu7GYYdDbtIMSa/2k0dins8JmUxZJYhUfhZi6drjhBNwrHtPauDCkUnUbv32SzmA89iWE/WVR2bBEvxTCc50q7Waj4hCqZPHfgCerJaBUTx2Jyh/hg4ZJRhsShDx49iquKPDxOL6j3rLTYN1+Lri14SpbaR+jvwydl5drdP1FVLfX5XUU3XYkbkHBauOz8FZcu5CrnbUcTdLSuOFdeEu9XCXQQUJjZZOQdn8+2ZU3b+upp4p6h+NubOJaf+pUqf0YIvbpPbAamcOQdpq6VP/pveWPNAMbFDubngflQm60iOHs8eb3xZbGY+uTePjC2P4uOyh+na84nF82Zs5VN8bUSkStHI7GyI9nrjwu1MbGySJVXeTEMuoA6Pf1zybYm7vjj5fBv6twYaq8HSoK6A5u12SVUN8TSz0xsjnSF9/80Ez70zqhoGN8/X9i9xNxx0fxeUd6RPeCpKRq1YRHH7rmbFdF2kZkKh3ubelpnv7QTvTdTI5MmHi4c1+V+MQ5fo0vkF3y+/PRG8nBSfPGOHy0ZwUp90i1Zb/VgstjmZpDc35q+oJWtqH6PaF0XTpntZuOCHQ9CdxVcb86m9r9RWMaN6iZ3BrVF9ZB5MksKqnrTJyhu5uh3ONVJl9q25oFKPw5xvwrG3pelw55Cvpxy9e7lJlqqzaWF3y2RFKlkmwbVkHbaulYn71FMjbIeENysqhx4yt3XP8+lkXu7qYdh8blfDUFTDL+gYhrxgaTwCHz3+ZUzjdoMTd/Nd1sOyQSmLK5fXGRsTiyjxqrPVLVZmgtfRcoIfEHnm/YJN1rDM9BPvHUaUXJptLlzIRPm/eOn6W07k6L9SJWFcXq0uVfnJVpQOeo9Lh5luySXVSYekGNo6K9DrF7OefHzNEXfCZoMP8hc97VU1+s2BXvKoFTNX6yt7qUOdoV0xDlWIR2FeHJWoklI3mlFZZ/GADauF06PrnpKTt1pMB+K771t/kaw6gdQFVLwyuxezDuLCpygwBo3lTjH41uSUPUt1rWBY/quPfnOmK5R2G9n7jlWozjJQq+Ztnrvr8GzCXDzQbvnpbnQizTOQVyXvy3wU0tG3pXjGs198Xn5+LmYT99Fv1R+wf9rOVkqz8t6Py8gkNyGuaE0ozFTPMg2zyB48uPvaXvIc2bks/Ivyw5Ev1jkGuX3LtX+fqLwMLuULU77ifcCdKxyLYfVfYfwxj1TLODzsH4yp+H4q/6BVmqqasjapDNN0JezML/Ub5Wxazm42zK5pmnri/qzFM9N06v1/cgUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Ar/ALqTKEx2KAMZAAAAAElFTkSuQmCC",
-          "Answer": [
-            {
-              "ID": 0,
-              "Content": "1",
-              "Correct": false
-            },
-            {
-              "ID": 1,
-              "Content": "2",
-              "Correct": false
-            },
-            {
-              "ID": 2,
-              "Content": "3",
-              "Correct": false
-            },
-            {
-              "ID": 3,
-              "Content": "4",
-              "Correct": false
-            }
-          ]
-        }
-      ],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:15.616Z"
-    },
-    "152562171": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:12.996Z"
-    },
-    "152864702": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:16.672Z"
-    },
-    "175421899": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:17.894Z"
-    },
-    "227282894": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:15.205Z"
-    },
-    "232643840": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:15:15.465Z"
-    },
-    "243961849": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:17.410Z"
-    },
-    "248300513": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:18.042Z"
-    },
-    "260282466": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:16.890Z"
-    },
-    "290282660": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:13.806Z"
-    },
-    "319055985": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:15.468Z"
-    },
-    "460961255": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:14.492Z"
-    },
     "472533456": {
       "name": "Tiana's Quiz",
       "owner": "hayden@unsw.edu.au",
@@ -200,54 +73,6 @@
       "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==",
       "active": null,
       "createdAt": "2021-04-19T14:03:56.902Z"
-    },
-    "477913312": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:14.809Z"
-    },
-    "484892869": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:14.307Z"
-    },
-    "493829394": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:16.252Z"
-    },
-    "545959893": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:13.609Z"
-    },
-    "547878683": {
-      "name": "My first quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-12T08:04:24.227Z"
-    },
-    "556429769": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:18.841Z"
     },
     "599557784": {
       "name": "test new quiz",
@@ -257,70 +82,6 @@
       "active": null,
       "createdAt": "2021-04-19T04:39:32.730Z"
     },
-    "630859879": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:17.089Z"
-    },
-    "715893946": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:16.084Z"
-    },
-    "740870556": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:18.297Z"
-    },
-    "754021481": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:13.417Z"
-    },
-    "768223818": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:13.226Z"
-    },
-    "784767115": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:16.405Z"
-    },
-    "787524403": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:17.565Z"
-    },
-    "798163039": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:17.750Z"
-    },
     "807523243": {
       "name": "qweqwe",
       "owner": "hayden@unsw.edu.au",
@@ -329,54 +90,6 @@
       "active": null,
       "createdAt": "2021-04-19T09:33:02.607Z"
     },
-    "813074118": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:14.072Z"
-    },
-    "833308042": {
-      "name": "My second quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:15:08.595Z"
-    },
-    "836389675": {
-      "name": "My second quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-12T08:25:24.420Z"
-    },
-    "843378291": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:15.772Z"
-    },
-    "863571709": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:12.739Z"
-    },
-    "871690310": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:15.915Z"
-    },
     "874702724": {
       "name": "test POST reload",
       "owner": "hayden@unsw.edu.au",
@@ -384,22 +97,6 @@
       "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==",
       "active": null,
       "createdAt": "2021-04-19T04:46:20.450Z"
-    },
-    "887273065": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:14.990Z"
-    },
-    "986512176": {
-      "name": "My third quiz",
-      "owner": "hayden@unsw.edu.au",
-      "questions": [],
-      "thumbnail": null,
-      "active": null,
-      "createdAt": "2021-04-14T06:25:18.569Z"
     }
   },
   "sessions": {
